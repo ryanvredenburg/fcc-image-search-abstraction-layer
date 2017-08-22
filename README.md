@@ -1,2 +1,6 @@
-# fcc-image-search-abstraction-layer
-project to complete https://www.freecodecamp.org/challenges/image-search-abstraction-layer
+#FCC Image Search Abstraction Layer
+
+Project to complete: https://www.freecodecamp.org/challenges/image-search-abstraction-layer
+
+
+Live demo at: https://magenta-sign.glitch.me/
